@@ -5,7 +5,7 @@ a Mac to how I like it. Brazenly copied form https://github.com/daemonza/setupma
 
 To setup run the following command :
 ```
-curl -s https://github.com/claytron5000/setupmac/blob/master/start.sh | /bin/bash
+curl -s https://raw.githubusercontent.com/claytron5000/setupmac/master/start.sh | /bin/bash
 ```
 
 The start.sh script installs `pip` and then `ansible` with pip.
